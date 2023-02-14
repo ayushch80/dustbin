@@ -1,0 +1,12 @@
+{
+  "name": "dustbin",
+  "description": "A simple programming language made with JavaScript",
+  "version": "2023.1.0",
+  "main": "index.js",
+  "author": "ayushch80",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayushch80/dustbin.git"
+  }
+}

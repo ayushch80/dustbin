@@ -1,0 +1,5 @@
+dump.console(string: "Hello World");
+dump.console(string: "Hello");
+dump.console(string: "World");
+dump.console(number: 1);
+dump.console(number: "8");
