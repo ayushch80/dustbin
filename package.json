@@ -1,5 +1,5 @@
 {
-  "name": "dustbin",
+  "name": "@no-slow/dustbin",
   "description": "A simple programming language made with JavaScript",
   "version": "2023.1.0",
   "main": "index.js",
