@@ -6,7 +6,7 @@ A simple programming language made with JavaScript.
 You can install `dustbin` by downloading from NPM:
 
 ```shell
-npm i -g dustbin
+npm i -g @no-slow/dustbin
 ```
 
 ## Usage
